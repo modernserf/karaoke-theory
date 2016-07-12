@@ -68,6 +68,17 @@
     transform: translate(-50%, 0);
 }
 
+@media (min-width: $max-width) {
+    .site-title {
+        height: $max-width * 0.44;
+    }
+    .site-title-svg {
+        top: $max-width * -0.36;
+        width: $max-width * 1.1;
+        height: $max-width * 1.2;
+    }
+}
+
 // footer
 
 .site-footer {
