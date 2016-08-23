@@ -7,7 +7,8 @@ categories: podcast episode
 
 This week, Anna and Justin are joined in studio with New York's Kings of Karaoke host Sarah Booz and also Ally Lopez from last week's episode. They talk about how Sarah went from hating to loving karaoke, karaoke etiquette and the complicated nature of choosing rap songs.
 
-Karaoke credits:
+**Karaoke credits:**
+
 - Sarah Booz performing Sublime's Date Rape at Pinebox in Brooklyn
 - The Wolf and Tigerlily performing The Weekend's The Hills at Cobra Club in Brooklyn 
 - Prince of Persia performing Aerosmith's I Don't Want To Miss a Thing at the Spread Eagle in London 
