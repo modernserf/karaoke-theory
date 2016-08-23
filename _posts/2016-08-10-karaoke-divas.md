@@ -7,7 +7,7 @@ categories: podcast episode
 
 In this week's episode, Anna and Justin speak to Alejandra Lopez, a trained professional singer (and karaoke enthusiast!) about the "diva belters" and how doing karaoke at Pinebox in Brooklyn allowed her to extend her repertoire as a performer.
 
-**This episodes performances: **
+**Karaoke Credits:**
 
 - Harley Fox singing Beyonce's "Listen" at the Way Station in Brooklyn 
 - Ally Lopez singing Whitney Houston's "I Have Nothing" and Jackson 5's "I Want You Back" at B Burger Bar, Glastonbury, Connecticut
