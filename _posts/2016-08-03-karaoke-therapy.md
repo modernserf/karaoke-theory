@@ -7,7 +7,7 @@ categories: podcast episode
 
 In this week's episode, Anna and Justin continue their conversation with Anne Quito, discussing everything from the cathartic powers of karaoke to why Celine Dion songs are perfect karaoke fodder.
 
-Episode Credits:
+**Karaoke Credits:**
 
 - Anna Kealey and Justin Falcone singing Celine Dion's "All Coming Back to Me Now"
 - Alissa May Atkinson singing Alanis Morrisette's "Hand in my Pocket"
