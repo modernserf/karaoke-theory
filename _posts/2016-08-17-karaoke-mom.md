@@ -9,11 +9,10 @@ This week, Anna and Justin are joined in studio with New York's Kings of Karaoke
 
 **Karaoke credits:**
 
-- Sarah Booz performing Sublime's Date Rape at Pinebox in Brooklyn
-- The Wolf and Tigerlily performing The Weekend's The Hills at Cobra Club in Brooklyn 
-- Prince of Persia performing Aerosmith's I Don't Want To Miss a Thing at the Spread Eagle in London 
-- Dave performing Dr. Dre and Eminem's Forget About Dre at Pinebox in Brooklyn
-
+- Sarah Booz performing Sublime's "Date Rape" at Pine Box Rock Shop in Brooklyn
+- The Wolf and Tigerlily performing The Weeknd's "The Hills" at Cobra Club in Brooklyn 
+- Prince of Persia performing Aerosmith's "I Don't Want To Miss a Thing" at the Spread Eagle in London 
+- Dave performing Dr. Dre and Eminem's "Forgot About Dre" at Pine Box Rock Shop in Brooklyn
 
 [Download on SoundCloud](https://soundcloud.com/karaoke-theory/episode4-finalfinal)
 [Subscribe on iTunes](https://itunes.apple.com/ie/podcast/karaoke-theory/id1137159144?mt=2)
